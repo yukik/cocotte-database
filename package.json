@@ -1,0 +1,27 @@
+{
+  "name": "cocotte-database",
+  "description": "データベース操作",
+  "homepage": "https://github.com/yukik/cocotte-database",
+  "keywords": [
+    "cocotte",
+    "database"
+  ],
+  "author": "Yuki Kurata <yuki.kurata@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yukik/cocotte-database.git"
+  },
+  "main": "database.js",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukik/cocotte-database/issues"
+  }
+}
